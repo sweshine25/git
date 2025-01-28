@@ -1,0 +1,1 @@
+created a repository called git nd named a file called 1.txt in main branch
